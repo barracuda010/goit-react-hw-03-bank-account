@@ -1,0 +1,22 @@
+.controls {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+  background-color: rgb(5, 5, 61);
+}
+
+.input {
+  height: 20px;
+  margin-right: 10px;
+}
+
+.button {
+  border: none;
+  background-color: rgb(171, 190, 226);
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(84, 146, 84);
+}
